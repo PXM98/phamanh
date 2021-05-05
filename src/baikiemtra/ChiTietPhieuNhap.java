@@ -16,7 +16,6 @@ public class ChiTietPhieuNhap extends PhieuNhap {
         System.out.println("Nhap han su dung la: \n");
         hansudung = scan.nextLine();
     }
-    //Phương thwucs xuất tt
     void xuatthongtin_sanpham(){
         System.out.println("Xuat thong tin san pham la: \n");
         System.out.println("Ma san pham la: \n"+ma_sanpham);
