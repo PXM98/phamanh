@@ -1,3 +1,4 @@
+package shapes;
 public class PhieuNhap {
     int ma_phieunhap;
     String ngaynhap;

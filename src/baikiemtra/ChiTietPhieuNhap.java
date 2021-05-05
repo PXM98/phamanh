@@ -1,3 +1,4 @@
+package shapes;
 public class ChiTietPhieuNhap extends PhieuNhap {
     int ma_sanpham;
     String ten_sanpham;
